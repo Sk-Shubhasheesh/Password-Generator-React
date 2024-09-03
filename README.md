@@ -18,3 +18,8 @@ Include Special Characters: Toggle to include or exclude special characters in t
 * Adjust the password length using the slider.
 * Toggle the inclusion of numbers and special characters by clicking the checkboxes.
 * Copy the generated password to your clipboard using the "Copy" button.
+
+
+### Deployment
+This website is live. The link is given below:
+#### https://password-generator-react-lwk4.onrender.com
